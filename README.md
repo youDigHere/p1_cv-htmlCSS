@@ -1,2 +1,2 @@
-# CV in html and CSS
+# CV in html, CSS
 
