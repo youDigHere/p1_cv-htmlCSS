@@ -1,10 +1,8 @@
-# Projekt Opportunity, P1: CV in HTML, CSS
-## Task
-https://docs.google.com/document/d/1syfvTT4JxrIOBNgC5FgtTu9-jznQ1R9duXduSB98weo/edit
+# Projekt Opportunity
 
-
-## CV template in Figma
-[template](https://www.figma.com/design/Xiwnf52ThvNQS48ulTDJDJ/CV-Templates?node-id=38-636&t=zXr3uNSumQ15Zyj0-0)
+## P1: CV in HTML, CSS
+Task:
+Design a CV according to a corresponding [template](https://docs.google.com/document/d/1syfvTT4JxrIOBNgC5FgtTu9-jznQ1R9duXduSB98weo/edit) in Figma.
 
 Pick: 
 Jack Floid
