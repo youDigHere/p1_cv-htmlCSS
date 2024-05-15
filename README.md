@@ -1,18 +1,18 @@
 # Projekt Opportunity
 
 ## P1: CV in HTML, CSS
-Task:
+**Task:**
 Design a CV according to a corresponding [template](https://docs.google.com/document/d/1syfvTT4JxrIOBNgC5FgtTu9-jznQ1R9duXduSB98weo/edit) in Figma.
 
-Pick: 
-Jack Floid
+Pick: <br>
+Jack Floid <br>
 Yellow contact box
 
 
 ## Styling best practices, guidelines
-Use semantic tags when possible
+Use semantic tags when possible <br>
 
-Use mininimal amount of div's (`<div></div>`)
+Use mininimal amount of div's (`<div></div>`) <br>
 
 Use flexbox only for layout:
 - 1 box for entire page as css class for `<body></body>`
@@ -33,9 +33,9 @@ Use flexbox only for layout:
     ```
 
 ## Source material
-[w3school.com, html](https://www.w3schools.com/html/default.asp)
-[w3school.com, CSS](https://www.w3schools.com/css/default.asp)
-And some more...
+[w3school.com, html](https://www.w3schools.com/html/default.asp) <br>
+[w3school.com, CSS](https://www.w3schools.com/css/default.asp) <br>
+And some more... <br>
 
-Last but not least:
+Last but not least: <br>
 Ask Benni or Ray :U+1F607:
