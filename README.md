@@ -15,19 +15,19 @@ Use semantic tags when possible <br>
 Use mininimal amount of div's (`<div></div>`) <br>
 
 Use flexbox only for layout:
-- 1 box for entire page as css class for `<body></body>`
-    css property 
+- 1 box for entire page as css class for `<body></body>` <br>
+    CSS property 
     ```
     max-width: 1440px;
     ```
-- 1 box for sidebar as css class for `<aside></aside>`
-    css property
+- 1 box for sidebar as css class for `<aside></aside>` <br>
+    CSS property
     ```
     width: 470px;
     ```
 
-- 1 box for main content as css class for `<main></main>
-    css property
+- 1 box for main content as css class for `<main></main> <br>
+    CSS property
     ```
     width: 712px;
     ```
