@@ -1,6 +1,6 @@
 # Projekt Opportunity
 
-## P1: CV in HTML, CSS
+## Project 1: CV in HTML, CSS
 **Task:** <br>
 Design a CV according to a corresponding [template](https://docs.google.com/document/d/1syfvTT4JxrIOBNgC5FgtTu9-jznQ1R9duXduSB98weo/edit) in Figma.
 
