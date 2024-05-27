@@ -1,4 +1,5 @@
 # Retrospective 
+
 Critics:
 - The layout is not exactly the same. <br>
     Some margins in CSS ar not equal. <br>
